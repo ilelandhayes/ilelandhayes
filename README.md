@@ -16,10 +16,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 ### Info About Me
 
