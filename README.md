@@ -8,17 +8,10 @@
 </a>
 <br>
 <br>
-<br>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilelandhayes)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lelandkhayes13@gmail.com)](https://git.io/streak-stats)
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ### Info About Me
 
