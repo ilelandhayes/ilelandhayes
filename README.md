@@ -4,8 +4,10 @@
 </a>
 
 <a href="https://github.com/ilelandhayes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilelandhayes&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Daniel's Github Statistics"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilelandhayes&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Leland's Github Statistics"/>
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilelandhayes)](https://git.io/streak-stats)
 
 <br>
 <br>
