@@ -1,4 +1,5 @@
-
+<h3> 👋  Hi, my name is Leland Hayes </h3>
+<hr>
 <a href="https://github.com/ilelandhayes">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilelandhayes&line_height=27&count_private=false&title_color=FFFF00&text_color=c9cacc&icon_color=57A6FF&bg_color=000000&border_color=c9cacc" alt="Leland's Github Statistics"/>
 </a>
@@ -8,8 +9,6 @@
 <hr>
 
 ### Info About Me
-<hr>
-<h3> 👋  Hi, my name is Leland Hayes </h3>
 <hr>
 <h4> 🧠  I am currently taking a full-stack web development bootcamp at Chapel Hill to become a Full-stack Developer </h4>
 <hr>
