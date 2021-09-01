@@ -6,7 +6,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilelandhayes&theme=highcontrast)](https://git.io/streak-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilelandhayes&theme=highcontrast)](https://github.com/ilelandhayes/github-readme-stats)
 
 <hr>
-<br>
 
 ### Info About Me
 <hr>
